@@ -133,3 +133,4 @@ biomedparse_datasets/
 __pycache__/
 *.pkl
 
+resultsolder/
