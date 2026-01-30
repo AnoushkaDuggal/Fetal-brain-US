@@ -127,3 +127,9 @@ model_weights
 /results
 /examples
 /FilteredRes
+figures/
+biomedparse_datasets/
+*.json
+__pycache__/
+*.pkl
+
